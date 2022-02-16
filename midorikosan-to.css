@@ -3,3 +3,5 @@
   /*! ----pinkromeo theme base ---- */html{font-size: 62.5%;}body{font-size:1.5em;line-height:1.6;}body {font-family: "Yu Gothic", YuGothic,"Hiragino Kaku Gothic Pro",Meiryo, Osaka,"MS PGothic", sans-serif;}h1, h2, h3, h4, h5, h6 {margin-top: 0;margin-bottom: 1rem;font-weight: bold;line-height: 1.25;letter-spacing: -.1rem;}h2, p, dd, q, em, pre{margin-top:0;margin-bottom: 0.5rem;font-weight:bold;}dd, q, pre {display: block;font-weight: normal;margin-left: 40px;white-space: pre-wrap;}hr {height: 0;margin: 0;border: 0;padding-bottom: 1.5rem;box-sizing: content-box;}sub{font-size:1.5rem;font-weight:normal;bottom:0;}img{width: 100%;box-sizing: border-box;}q:before{content:'"';}q:after{content:'"';}ul.nav-row,ul.nav{list-style:none;margin:0;padding:0;}ul.nav-row li{display:inline-block;}ul.nav-row a,ul.nav a{text-decoration:none;}
   .center{text-align:center;}
   .bold{font-weight: bold;}
+
+
